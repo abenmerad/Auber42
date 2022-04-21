@@ -23,7 +23,14 @@ Concernant les informations techniques du projet :
 - Base de données texture 2D -> Textures.com (https://www.textures.com/)
 - Base de données sons et bruitages -> Universal-SoundBank (http://www.universal-soundbank.com/)
 
-
+![image_053_0005](https://user-images.githubusercontent.com/60623854/164463917-e1ef980b-928f-4c73-908e-61a9a903b48d.jpg)
+![image_017_0005](https://user-images.githubusercontent.com/60623854/164464016-8334f851-be52-467a-8780-660b52987dbe.jpg)
+![image_016_0005](https://user-images.githubusercontent.com/60623854/164464019-0e95b6d8-e1a0-48f3-8bc5-255f7d784adf.jpg)
+![image_019_0005](https://user-images.githubusercontent.com/60623854/164464062-883d1e3d-0473-400f-9f81-c329d2fc2ec6.jpg)
+![image_025_0005](https://user-images.githubusercontent.com/60623854/164464121-bd05b4d1-ee43-40fe-bc82-2b333d87ee96.jpg)
+![image_024_0005](https://user-images.githubusercontent.com/60623854/164464168-9a7ebd9d-bd36-4244-9b7f-36d5415b8b4c.jpg)
+![image_041_0005](https://user-images.githubusercontent.com/60623854/164464319-9053a446-4b52-4a4e-af7f-1f298e93fe9e.jpg)
+![image_037_0005](https://user-images.githubusercontent.com/60623854/164464404-7cbc45cf-cc73-4051-9095-f4909e7e652b.jpg)
 ![image_014_0005](https://user-images.githubusercontent.com/60623854/160242787-e268458f-6b20-40ac-93be-a6bc3c3489f2.jpg)
 ![image_039_0005](https://user-images.githubusercontent.com/60623854/160242790-f7313a91-c9bc-4ef7-9c04-6a3bc85cfa3d.jpg)
 ![image_040_0005](https://user-images.githubusercontent.com/60623854/160242791-31b369f0-b6c0-470d-aa12-6c33ae69896d.jpg)
