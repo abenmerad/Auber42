@@ -1,3 +1,5 @@
+Quelques rendus du projet plus bas 👇
+
 Le projet Auber42 dont le nom n'est pas définitif a pour ambition de modéliser les principales zones d'Aubervilliers afin d'en faire un jeu vidéo en monde ouvert où vous pourrez, à l'aide d'un personnage contrôlé à la troisième personne, y visitez les moindres recoins.
 L'objectif est de proposer une expérience unique au joueur qui visite cet univers en récréant fidèlement l'atmosphère tantôt froide tantôt caniculaire des rues d'Aubervilliers. 
 Le projet a débuté il y a un peu plus de 2 ans maintenant et les images visibles sur les différentes publications de la page sont le fruit de ces deux années de travail. 
@@ -23,6 +25,9 @@ Concernant les informations techniques du projet :
 - Base de données texture 2D -> Textures.com (https://www.textures.com/)
 - Base de données sons et bruitages -> Universal-SoundBank (http://www.universal-soundbank.com/)
 
+![image_034_0005](https://user-images.githubusercontent.com/60623854/164465044-fc93f581-dbd7-4334-be42-9f0695c0770f.jpg)
+![image_027_0005](https://user-images.githubusercontent.com/60623854/164465109-c6285bd4-6bd7-4ecb-a2e4-c9a32d1a73e6.jpg)
+![image_021_0005](https://user-images.githubusercontent.com/60623854/164465179-f8fac959-b005-457e-8dba-c6a63d8970e9.jpg)
 ![image_053_0005](https://user-images.githubusercontent.com/60623854/164463917-e1ef980b-928f-4c73-908e-61a9a903b48d.jpg)
 ![image_017_0005](https://user-images.githubusercontent.com/60623854/164464016-8334f851-be52-467a-8780-660b52987dbe.jpg)
 ![image_016_0005](https://user-images.githubusercontent.com/60623854/164464019-0e95b6d8-e1a0-48f3-8bc5-255f7d784adf.jpg)
