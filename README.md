@@ -2,7 +2,7 @@ Quelques rendus du projet plus bas 👇
 
 Le projet Auber42 dont le nom n'est pas définitif a pour ambition de modéliser les principales zones d'Aubervilliers afin d'en faire un jeu vidéo en monde ouvert où vous pourrez, à l'aide d'un personnage contrôlé à la troisième personne, y visitez les moindres recoins.
 L'objectif est de proposer une expérience unique au joueur qui visite cet univers en récréant fidèlement l'atmosphère tantôt froide tantôt caniculaire des rues d'Aubervilliers. 
-Le projet a débuté il y a un peu plus de 2 ans maintenant et les images visibles sur les différentes publications de la page sont le fruit de ces deux années de travail. 
+Le projet a débuté il y a un peu plus de 2 ans maintenant et les images visibles ci-dessous sont le fruit de ces deux années de travail. 
 
 A l'heure actuelle, une infime partie de la ville a été modélisé tels que : 
 - une partie de la Frette
