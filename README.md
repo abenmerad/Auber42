@@ -17,6 +17,7 @@ Par ailleurs, quelques fonctionnalités ont déjà été dévéloppé mais celle
 - le système de vie du personnage
 - le cycle jour/nuit de l'environnement 
 - le système de piéton
+
 Concernant les informations techniques du projet :
 - Logiciel de modélisation 3D -> Blender 3D (https://www.blender.org/)
 - Moteur de jeu -> Unity 
